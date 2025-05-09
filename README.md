@@ -1,11 +1,11 @@
 👋 Hello, I'm Christopher – Backend Developer.<br>
 I'm a passionate Backend Developer with a strong focus on building scalable, secure, and efficient backend systems. My expertise spans across various technologies, including Node.js, Express, MySQL, MongoDB, Sequelize, and JWT, among others. I take pride in creating clean, modular code that provides seamless and efficient solutions to complex problems.
 
-🛠️ Skills & Expertise:
-Backend Development: Extensive experience with Node.js and Express to create fast and scalable applications. I prioritize building APIs that are easy to use, secure, and maintainable.
-Database Management: Skilled in working with both MySQL (relational) and MongoDB (NoSQL). I leverage Sequelize and Mongoose to ensure efficient and streamlined database interactions.
+🛠️ Skills & Expertise:<br>
+Backend Development: Extensive experience with Node.js and Express to create fast and scalable applications. I prioritize building APIs that are easy to use, secure, and maintainable.<br>
+Database Management: Skilled in working with both MySQL (relational) and MongoDB (NoSQL). I leverage Sequelize and Mongoose to ensure efficient and streamlined database interactions.<br>
 Authentication & Security: Proficient in implementing JWT-based authentication and role-based access control (RBAC) to ensure secure and customizable access to resources.
-API Design & Development: I design RESTful APIs that are intuitive, flexible, and perform well under load. My goal is to create an exceptional developer experience for anyone interacting with the API.
+API Design & Development: I design RESTful APIs that are intuitive, flexible, and perform well under load. My goal is to create an exceptional developer experience for anyone interacting with the API.<br>
 User Profile Management: Built robust systems for user registration, login, email verification, password resets, and profile management to ensure smooth user experiences.
 
 
@@ -24,11 +24,11 @@ User Profile Management: Built robust systems for user registration, login, emai
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-🌱 Continuous Learning:
+🌱 Continuous Learning:<br>
 I'm always looking to expand my knowledge and skills. Currently, I’m focused on:
-Optimizing database performance and query efficiency.
-Enhancing security with best practices such as rate limiting, 2FA, and advanced JWT management.
+Optimizing database performance and query efficiency.<br>
+Enhancing security with best practices such as rate limiting, 2FA, and advanced JWT management.<br>
 Improving testing practices to write more robust, bug-free code.
 
-💬 Fun Fact:
+💬 Fun Fact:<br>
 I’m always experimenting with new backend technologies and excited about diving into new challenges that allow me to grow as a developer. Whether it’s optimizing an API or designing a new user management system, I’m always up for the task!
